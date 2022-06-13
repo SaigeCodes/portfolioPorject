@@ -98,3 +98,7 @@ h1-2 {
 body {
   margin-top: 100px;
 }
+
+.email-link {
+  font-size: 20px;
+}
